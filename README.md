@@ -10,25 +10,25 @@ This project provides a foundation for building RESTful web services for a socia
 ## Endpoints
 The following endpoints are provided:
 
-Users :
+Users :<br>
 GET /api/users: Get a list of all users.<br>
 GET /api/users/{id}: Get information about a specific user.<br>
 POST /api/users: Create a new user.<br>
 PUT /api/users/{id}: Update information for a specific user.<br>
 DELETE /api/users/{id}: Delete a user.<br>
-Posts :
+Posts :<br>
 GET /api/posts: Get a list of all posts.<br>
 GET /api/posts/{id}: Get information about a specific post.<br>
 POST /api/posts: Create a new post.<br>
 PUT /api/posts/{id}: Update information for a specific post.<br>
 DELETE /api/posts/{id}: Delete a post.<br>
-Interactions :
+Interactions :<br>
 POST /api/interactions/like/{postId}: Add a like to a post.<br>
 POST /api/interactions/comment/{postId}: Add a comment to a post<br>
 
 ## Technologies Used
-Spring Boot
-Spring Data JPA
-MySQL
-Maven
+Spring Boot ,
+Spring Data JPA ,
+MySQL ,
+Maven.
 
