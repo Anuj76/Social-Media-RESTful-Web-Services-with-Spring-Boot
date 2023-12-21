@@ -2,10 +2,10 @@
 ## Overview
 This project provides a foundation for building RESTful web services for a social media platform using the Spring Boot framework. It includes basic functionalities for managing users, posts, and interactions.
 ## Prerequisites
--> Java Development Kit (JDK) 8 or later
--> Maven (for building and managing dependencies)
--> MySQL (or another relational database of your choice)
--> Your favorite Integrated Development Environment (IDE) with Spring Boot support
+-> Java Development Kit (JDK) 8 or later<br>
+-> Maven (for building and managing dependencies)<br>
+-> MySQL (or another relational database of your choice)<br>
+-> Your favorite Integrated Development Environment (IDE) with Spring Boot support<br>
 
 ## Endpoints
 The following endpoints are provided:
